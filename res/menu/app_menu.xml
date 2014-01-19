@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:id="@string/settings" android:enabled="true" android:visible="true" android:title="@string/settings"></item>
+	<item android:id="@string/about" android:enabled="true" android:visible="true" android:title="@string/about"></item>
+	<item android:id="@string/status" android:enabled="true" android:visible="true" android:title="@string/status"></item>
+	
+</menu>

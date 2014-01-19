@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <array name="listArray">
+	<item>@string/FIVEHUNDRED</item>
+	<item>@string/ONETHOUSAND</item>
+	<item>@string/FIFTEENHUNDRED</item>	
+	<item>@string/TWOTHOUSAND</item>	
+	<item>@string/TWENTYFIVEHUNDRED</item>	
+  </array>
+
+  <string-array name="listValues">
+	<item>500</item>
+	<item>1000</item>
+	<item>1500</item> 
+	<item>2000</item>
+	<item>2500</item>  
+  </string-array>
+  
+  <array name="measurementArray">
+    <item>@string/METRIC</item>
+	<item>@string/STANDARD</item>
+  </array>
+  <string-array name="measurementValues">
+    <item>@string/METRIC</item>
+	<item>@string/STANDARD</item>
+  </string-array>
+
+  <string-array name="yesno">
+    <item>@string/YES</item>
+	<item>@string/NO</item>
+  </string-array>
+  
+  
+</resources>

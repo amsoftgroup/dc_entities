@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        <PreferenceCategory
+                android:title="Preferences...">
+                
+		<ListPreference
+			android:title="Distance"
+			android:summary="Search Radius"
+			android:key="DISTANCE"
+			android:entries="@array/listArray"
+			android:entryValues="@array/listValues" />
+			
+     	<ListPreference
+			android:title="System of Measurement"
+			android:summary="Metric or Standard"
+			android:key="MEASUREMENT_TYPE"
+			android:entries="@array/measurementArray"
+			android:entryValues="@array/measurementValues" />
+			
+     	<ListPreference
+			android:title="Debug GPS"
+			android:summary="Allows you to mimic your location"
+			android:key="LOCATION_DEBUG"
+			android:entries="@array/yesno"
+			android:entryValues="@array/yesno" />
+				
+        </PreferenceCategory>
+
+</PreferenceScreen>

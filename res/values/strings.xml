@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello"></string>
+    <string name="app_name">Washington, d.c.</string>
+    
+    <string name="FIVEHUNDRED">500</string>
+    <string name="ONETHOUSAND">1000</string>
+    <string name="FIFTEENHUNDRED">1500</string>
+    <string name="TWOTHOUSAND">2000</string>
+    <string name="TWENTYFIVEHUNDRED">2500</string>
+    <string name="METRIC">Metric</string>
+    <string name="STANDARD">Standard</string>
+ 
+    <string name="YES">Yes</string>
+    <string name="NO">No</string>
+    
+    <string name="about">About</string>
+    <string name="settings">Settings...</string>
+    <string name="status">Status</string>
+    
+</resources>
